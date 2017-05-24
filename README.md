@@ -1,6 +1,4 @@
-# filiskicom
-
-## About US
+# About US
 Réunis par le milieu associatif, deux amis ont souhaité continuer leur association en participant régulièrement à des concours organisés par des entreprises afin de booster l’innovation au sein de la société.
 
 Ces évènements leur ont permis d’acquérir une certaine notoriété au sein de jeunes entreprises désireuses de déléguer leur expertise technique à des passionnés. Avec une solide base de clients, Filiski s’est lancé pour répondre à des besoins concrets.
